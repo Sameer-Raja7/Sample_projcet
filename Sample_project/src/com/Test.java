@@ -8,4 +8,7 @@ public class Test {
      public void sayHi() {
     	 System.out.println("Hi This a developer 1");
      }
+     public void sayBYe() {
+    	 System.out.println("Hi This a developer 2");
+     }
 }
